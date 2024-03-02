@@ -1,0 +1,13 @@
+{
+  "name": "question-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Four_Lines.js",
+  "target":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
